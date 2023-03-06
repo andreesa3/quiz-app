@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Quiz App</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1 id="title">Scegli una categoria</h1>
+      <div class="box">
+        <!-- Cultura generale -->
+        <div class="category">
+          <a class="culture"></a>
+          <p>Cultura Generale</p>
+        </div>
+        <!-- Film -->
+        <div class="category">
+          <a class="film"></a>
+          <p>Film</p>
+        </div>
+        <!-- Videogiochi -->
+        <div class="category">
+          <a class="videogames"></a>
+          <p>Videogiochi</p>
+        </div>
+        <!-- Scienze -->
+        <div class="category">
+          <a class="science"></a>
+          <p>Scienze</p>
+        </div>
+        <!-- Sport -->
+        <div class="category">
+          <a class="sports"></a>
+          <p>Sport</p>
+        </div>
+        <!-- Geografia -->
+        <div class="category">
+          <a class="geo"></a>
+          <p>Geografia</p>
+        </div>
+        <!-- Storia -->
+        <div class="category">
+          <a class="history"></a>
+          <p>Storia</p>
+        </div>
+        <!-- Anime e Manga -->
+        <div class="category">
+          <a class="japan"></a>
+          <p>Anime e Manga</p>
+        </div>
+      </div>
+
+      <!-- Domande -->
+      <div id="question-box">
+        <div id="back-translate">
+          <button id="back-btn">
+            <i class="fa-solid fa-arrow-left"></i>Homepage
+          </button>
+        </div>
+        <div class="question-text-div">
+          <h2 id="question-text"></h2>
+        </div>
+        <div id="question-btns">
+          <button class="answer-btn">A</button>
+          <button class="answer-btn">B</button>
+          <button class="answer-btn">C</button>
+          <button class="answer-btn">D</button>
+        </div>
+        <div class="next-div">
+          <button id="next-btn">
+            Prossima domanda<i class="fa-solid fa-arrow-right"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+    <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script src="app.js"></script>
+    <script
+      src="https://kit.fontawesome.com/f96eeace04.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

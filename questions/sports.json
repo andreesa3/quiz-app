@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "Quale squadra ha vinto il più grande numero di partite nella storia del calcio?",
+      "answers": [
+        { "text": "Real Madrid", "correct": true },
+        { "text": "Barcellona", "correct": false },
+        { "text": "Bayern Monaco", "correct": false },
+        { "text": "Manchester United", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è considerato il più grande tennista di tutti i tempi?",
+      "answers": [
+        { "text": "Roger Federer", "correct": true },
+        { "text": "Rafael Nadal", "correct": false },
+        { "text": "Novak Djokovic", "correct": false },
+        { "text": "Pete Sampras", "correct": false }
+      ]
+    },
+    {
+      "question": "In che sport si utilizza un bilanciere?",
+      "answers": [
+        { "text": "Sollevamento pesi", "correct": true },
+        { "text": "Atletica", "correct": false },
+        { "text": "Nuoto", "correct": false },
+        { "text": "Ginnastica artistica", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale paese ha vinto il più grande numero di medaglie d'oro alle Olimpiadi invernali?",
+      "answers": [
+        { "text": "Norvegia", "correct": true },
+        { "text": "Stati Uniti", "correct": false },
+        { "text": "Germania", "correct": false },
+        { "text": "Svezia", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è il più grande marcatore nella storia della NBA?",
+      "answers": [
+        { "text": "Kareem Abdul-Jabbar", "correct": true },
+        { "text": "Michael Jordan", "correct": false },
+        { "text": "LeBron James", "correct": false },
+        { "text": "Wilt Chamberlain", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è la disciplina olimpica che consiste nell'immergersi con attrezzatura per l'immersione e compiere prove di abilità e di resistenza?",
+      "answers": [
+        { "text": "Tuffi", "correct": true },
+        { "text": "Atletica leggera", "correct": false },
+        { "text": "Nuoto", "correct": false },
+        { "text": "Canoa/Kayak", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale sport il punteggio viene espresso con i numeri 15, 30 e 40?",
+      "answers": [
+        { "text": "Tennis", "correct": true },
+        { "text": "Calcio", "correct": false },
+        { "text": "Pallavolo", "correct": false },
+        { "text": "Basket", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale sport l'obiettivo è quello di lanciare un peso il più lontano possibile?",
+      "answers": [
+        { "text": "Lancio del peso", "correct": true },
+        { "text": "Corsa campestre", "correct": false },
+        { "text": "Nuoto", "correct": false },
+        { "text": "Atletica leggera", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale sport si utilizzano gli sci per scendere lungo un percorso predisposto?",
+      "answers": [
+        { "text": "Sci alpino", "correct": true },
+        { "text": "Snowboard", "correct": false },
+        { "text": "Sci di fondo", "correct": false },
+        { "text": "Sci freestyle", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale sport si effettuano prove di precisione e di potenza con la lancia?",
+      "answers": [
+        { "text": "Lancio del giavellotto", "correct": true },
+        { "text": "Atletica leggera", "correct": false },
+        { "text": "Nuoto", "correct": false },
+        { "text": "Basket", "correct": false }
+      ]
+    },
+    {
+      "question": "In che anno è stato introdotto il calcio come disciplina alle Olimpiadi?",
+      "answers": [
+        { "text": "1900", "correct": true },
+        { "text": "1904", "correct": false },
+        { "text": "1908", "correct": false },
+        { "text": "1912", "correct": false }
+      ]
+    },
+    {
+      "question": "Quanti giocatori sono necessari per giocare a pallavolo?",
+      "answers": [
+        { "text": "6", "correct": true },
+        { "text": "7", "correct": false },
+        { "text": "5", "correct": false },
+        { "text": "8", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è il paese che ha vinto il più grande numero di medaglie d'oro alle Olimpiadi invernali?",
+      "answers": [
+        { "text": "Norvegia", "correct": true },
+        { "text": "Stati Uniti", "correct": false },
+        { "text": "Russia", "correct": false },
+        { "text": "Svizzera", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale sport si gioca con una palla pesante e una mazza?",
+      "answers": [
+        { "text": "Baseball", "correct": true },
+        { "text": "Ping-Pong", "correct": false },
+        { "text": "Softball", "correct": false },
+        { "text": "Cricket", "correct": false }
+      ]
+    },
+    {
+      "question": "In che sport si utilizza il cavallo come compagno di gioco?",
+      "answers": [
+        { "text": "Polo", "correct": true },
+        { "text": "Equitazione", "correct": false },
+        { "text": "Ginnastica equestre", "correct": false },
+        { "text": "Salti ostacoli", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è il nome della squadra di calcio più vincente in Italia?",
+      "answers": [
+        { "text": "Juventus", "correct": true },
+        { "text": "Milan", "correct": false },
+        { "text": "Inter", "correct": false },
+        { "text": "Roma", "correct": false }
+      ]
+    },
+    {
+      "question": "In che anno l'Italia ha vinto la Coppa del Mondo FIFA?",
+      "answers": [
+        { "text": "2006", "correct": true },
+        { "text": "2002", "correct": false },
+        { "text": "2010", "correct": false },
+        { "text": "1998", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è considerato il più grande ciclista italiano di tutti i tempi?",
+      "answers": [
+        { "text": "Miguel Indurain", "correct": false },
+        { "text": "Eddy Merckx", "correct": false },
+        { "text": "Gino Bartali", "correct": true },
+        { "text": "Fausto Coppi", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è la squadra di basket più vincente in Italia?",
+      "answers": [
+        { "text": "Olimpia Milano", "correct": true },
+        { "text": "Virtus Bologna", "correct": false },
+        { "text": "Sassari", "correct": false },
+        { "text": "Varese", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è la disciplina olimpica in cui l'Italia ha vinto il maggior numero di medaglie?",
+      "answers": [
+        { "text": "Pallanuoto", "correct": true },
+        { "text": "Calcio", "correct": false },
+        { "text": "Atletica leggera", "correct": false },
+        { "text": "Nuoto", "correct": false }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "In quale anno è uscito il film Titanic?",
+      "answers": [
+        { "text": "1997", "correct": true },
+        { "text": "1998", "correct": false },
+        { "text": "1999", "correct": false },
+        { "text": "2000", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale attore ha interpretato il ruolo di Forrest Gump?",
+      "answers": [
+        { "text": "Tom Hanks", "correct": true },
+        { "text": "Leonardo DiCaprio", "correct": false },
+        { "text": "Brad Pitt", "correct": false },
+        { "text": "Matt Damon", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è la protagonista femminile del film La La Land?",
+      "answers": [
+        { "text": "Emma Stone", "correct": true },
+        { "text": "Anne Hathaway", "correct": false },
+        { "text": "Meryl Streep", "correct": false },
+        { "text": "Natalie Portman", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale film il personaggio interpretato da Leonardo DiCaprio ha vinto l'Oscar come miglior attore protagonista?",
+      "answers": [
+        { "text": "Revenant - Redivivo", "correct": true },
+        { "text": "Il Grande Gatsby", "correct": false },
+        { "text": "Inception", "correct": false },
+        { "text": "The Aviator", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale attore ha interpretato il ruolo di Iron Man nella saga cinematografica degli Avengers?",
+      "answers": [
+        { "text": "Robert Downey Jr.", "correct": true },
+        { "text": "Tom Cruise", "correct": false },
+        { "text": "Chris Evans", "correct": false },
+        { "text": "Chris Hemsworth", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è il regista del film Schindler's List?",
+      "answers": [
+        { "text": "Steven Spielberg", "correct": true },
+        { "text": "Martin Scorsese", "correct": false },
+        { "text": "Quentin Tarantino", "correct": false },
+        { "text": "Christopher Nolan", "correct": false }
+      ]
+    },
+    {
+      "question": "In che anno è stato pubblicato il film 'La La Land' di Damien Chazelle?",
+      "answers": [
+        { "text": "2016", "correct": true },
+        { "text": "2015", "correct": false },
+        { "text": "2017", "correct": false },
+        { "text": "2018", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è il regista del film 'The Shawshank Redemption' (1994)?",
+      "answers": [
+        { "text": "Frank Darabont", "correct": true },
+        { "text": "Quentin Tarantino", "correct": false },
+        { "text": "Martin Scorsese", "correct": false },
+        { "text": "Steven Spielberg", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale attrice ha interpretato il personaggio di Katniss Everdeen in 'The Hunger Games' (2012)?",
+      "answers": [
+        { "text": "Jennifer Lawrence", "correct": true },
+        { "text": "Emma Watson", "correct": false },
+        { "text": "Natalie Portman", "correct": false },
+        { "text": "Scarlett Johansson", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale anno è stato pubblicato il film 'Jurassic Park' di Steven Spielberg?",
+      "answers": [
+        { "text": "1993", "correct": true },
+        { "text": "1992", "correct": false },
+        { "text": "1994", "correct": false },
+        { "text": "1991", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è il regista del film 'Pulp Fiction' (1994)?",
+      "answers": [
+        { "text": "Quentin Tarantino", "correct": true },
+        { "text": "Martin Scorsese", "correct": false },
+        { "text": "Steven Spielberg", "correct": false },
+        { "text": "Frank Darabont", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi ha diretto il film 'La Vita è Bella'?",
+      "answers": [
+        { "text": "Roberto Benigni", "correct": true },
+        { "text": "Vittorio De Sica", "correct": false },
+        { "text": "Federico Fellini", "correct": false },
+        { "text": "Pier Paolo Pasolini", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale film Italiano compare Marcello Mastroianni?",
+      "answers": [
+        { "text": "La Dolce Vita", "correct": true },
+        { "text": "La Strada", "correct": false },
+        { "text": "I Vitelloni", "correct": false },
+        { "text": "La Notte", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi ha diretto il film 'Il Gattopardo'?",
+      "answers": [
+        { "text": "Luchino Visconti", "correct": true },
+        { "text": "Federico Fellini", "correct": false },
+        { "text": "Michelangelo Antonioni", "correct": false },
+        { "text": "Vittorio De Sica", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale film Italiano compare Sophia Loren?",
+      "answers": [
+        { "text": "Ieri, Oggi, Domani", "correct": true },
+        { "text": "La Ciociara", "correct": false },
+        { "text": "La Favorita", "correct": false },
+        { "text": "L'Oro di Napoli", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi ha diretto il film 'Nuovo Cinema Paradiso'?",
+      "answers": [
+        { "text": "Giuseppe Tornatore", "correct": true },
+        { "text": "Federico Fellini", "correct": false },
+        { "text": "Roberto Benigni", "correct": false },
+        { "text": "Luchino Visconti", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale tra questi film compare Diego Abatantuono?",
+      "answers": [
+        { "text": "Mediterraneo", "correct": true },
+        { "text": "La Vita è Bella", "correct": false },
+        { "text": "La Grande Bellezza", "correct": false },
+        { "text": "La Notte", "correct": false }
+      ]
+    },
+    {
+      "question": "In che anno è stato pubblicato il film 'Interstellar' diretto da Christopher Nolan?",
+      "answers": [
+        { "text": "2014", "correct": true },
+        { "text": "2015", "correct": false },
+        { "text": "2013", "correct": false },
+        { "text": "2016", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale attore ha interpretato il personaggio di Neo nella trilogia di Matrix?",
+      "answers": [
+        { "text": "Keanu Reeves", "correct": true },
+        { "text": "Laurence Fishburne", "correct": false },
+        { "text": "Hugo Weaving", "correct": false },
+        { "text": "Carrie-Anne Moss", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale film Brad Pitt ha interpretato il personaggio di Tyler Durden?",
+      "answers": [
+        { "text": "Fight Club", "correct": true },
+        { "text": "Seven", "correct": false },
+        { "text": "Inception", "correct": false },
+        { "text": "Ocean's Eleven", "correct": false }
+      ]
+    }
+  ]
+}

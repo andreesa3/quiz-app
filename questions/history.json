@@ -1,0 +1,187 @@
+{
+  "questions": [
+    {
+      "question": "In quale anno è iniziata la Prima Guerra Mondiale?",
+      "answers": [
+        { "text": "1914", "correct": true },
+        { "text": "1915", "correct": false },
+        { "text": "1913", "correct": false },
+        { "text": "1912", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi ha dipinto la Gioconda?",
+      "answers": [
+        { "text": "Leonardo da Vinci", "correct": true },
+        { "text": "Michelangelo", "correct": false },
+        { "text": "Rafael", "correct": false },
+        { "text": "Sandro Botticelli", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è stato il primo presidente degli Stati Uniti d'America?",
+      "answers": [
+        { "text": "George Washington", "correct": true },
+        { "text": "Thomas Jefferson", "correct": false },
+        { "text": "Abraham Lincoln", "correct": false },
+        { "text": "Benjamin Franklin", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi ha scritto il Manifesto del Partito Comunista?",
+      "answers": [
+        { "text": "Karl Marx e Friedrich Engels", "correct": true },
+        { "text": "Vladimir Lenin", "correct": false },
+        { "text": "Joseph Stalin", "correct": false },
+        { "text": "Mao Zedong", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale evento ha segnato la fine della Guerra Fredda?",
+      "answers": [
+        { "text": "Crollo del Muro di Berlino", "correct": true },
+        { "text": "Fine della Guerra del Vietnam", "correct": false },
+        { "text": "Attentato alle Torri Gemelle", "correct": false },
+        { "text": "Inizio della Guerra in Iraq", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale paese ha scatenato la Prima Guerra Mondiale?",
+      "answers": [
+        { "text": "Germania", "correct": true },
+        { "text": "Regno Unito", "correct": false },
+        { "text": "Francia", "correct": false },
+        { "text": "Austria-Ungheria", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi ha scritto la Dichiarazione d'Indipendenza degli Stati Uniti d'America?",
+      "answers": [
+        { "text": "Thomas Jefferson", "correct": true },
+        { "text": "George Washington", "correct": false },
+        { "text": "John Adams", "correct": false },
+        { "text": "Benjamin Franklin", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale anno è iniziata la Rivoluzione francese?",
+      "answers": [
+        { "text": "1789", "correct": true },
+        { "text": "1776", "correct": false },
+        { "text": "1804", "correct": false },
+        { "text": "1793", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale personaggio storico ha guidato il movimento per l'indipendenza dell'India?",
+      "answers": [
+        { "text": "Mahatma Gandhi", "correct": true },
+        { "text": "Jawaharlal Nehru", "correct": false },
+        { "text": "Sardar Vallabhbhai Patel", "correct": false },
+        { "text": "Indira Gandhi", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale evento ha segnato l'inizio della Seconda Guerra Mondiale?",
+      "answers": [
+        {
+          "text": "Invasione della Polonia da parte della Germania",
+          "correct": true
+        },
+        { "text": "Attacco a Pearl Harbor", "correct": false },
+        { "text": "Inizio della guerra in Vietnam", "correct": false },
+        { "text": "Scoppio della guerra fredda", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è stato il primo imperatore romano?",
+      "answers": [
+        { "text": "Augusto", "correct": true },
+        { "text": "Giulio Cesare", "correct": false },
+        { "text": "Traiano", "correct": false },
+        { "text": "Nerone", "correct": false }
+      ]
+    },
+    {
+      "question": "In che anno è caduta la Bastiglia?",
+      "answers": [
+        { "text": "14 luglio 1789", "correct": true },
+        { "text": "4 luglio 1776", "correct": false },
+        { "text": "11 novembre 1918", "correct": false },
+        { "text": "9 novembre 1989", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale impero romano fu successivo all'impero romano d'Occidente?",
+      "answers": [
+        { "text": "Impero romano d'Oriente", "correct": true },
+        { "text": "Impero Romano", "correct": false },
+        { "text": "Impero bizantino", "correct": false },
+        { "text": "Impero romano d'Africa", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è stato l'inventore della dinamo elettrica?",
+      "answers": [
+        { "text": "Michael Faraday", "correct": true },
+        { "text": "Thomas Edison", "correct": false },
+        { "text": "Nikola Tesla", "correct": false },
+        { "text": "Alexander Graham Bell", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi era il leader sovietico durante la Seconda Guerra Mondiale?",
+      "answers": [
+        { "text": "Joseph Stalin", "correct": true },
+        { "text": "Vladimir Lenin", "correct": false },
+        { "text": "Nikita Khrushchev", "correct": false },
+        { "text": "Mikhail Gorbaciov", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi fu il primo re d'Inghilterra a vantare il titolo di re d'Irlanda?",
+      "answers": [
+        { "text": "Giorgio I", "correct": false },
+        { "text": "Giorgio II", "correct": false },
+        { "text": "Giorgio III", "correct": true },
+        { "text": "Enrico VIII", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale anno è avvenuta la Dichiarazione d'Indipendenza degli Stati Uniti d'America?",
+      "answers": [
+        { "text": "1776", "correct": true },
+        { "text": "1775", "correct": false },
+        { "text": "1778", "correct": false },
+        { "text": "1779", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale anno è avvenuta la Rivoluzione russa?",
+      "answers": [
+        { "text": "1917", "correct": true },
+        { "text": "1916", "correct": false },
+        { "text": "1915", "correct": false },
+        { "text": "1918", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è stato eletto Presidente degli Stati Uniti nel 2008?",
+      "answers": [
+        { "text": "Barack Obama", "correct": true },
+        { "text": "George W. Bush", "correct": false },
+        { "text": "Bill Clinton", "correct": false },
+        { "text": "Donald Trump", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è stato eletto come Presidente del Brasile nel 2018?",
+      "answers": [
+        { "text": "Jair Bolsonaro", "correct": true },
+        { "text": "Luiz Inácio Lula da Silva", "correct": false },
+        { "text": "Dilma Rousseff", "correct": false },
+        { "text": "Michel Temer", "correct": false }
+      ]
+    }
+  ]
+}

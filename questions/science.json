@@ -1,0 +1,202 @@
+{
+  "questions": [
+    {
+      "question": "Che tipo di microscopio consente di vedere la struttura dei virus?",
+      "answers": [
+        { "text": "Microscopio elettronico", "correct": true },
+        { "text": "Microscopio ottico", "correct": false },
+        { "text": "Microscopio a scansione", "correct": false },
+        { "text": "Microscopio a forza atomica", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è considerato il padre della chimica?",
+      "answers": [
+        { "text": "Lavoisier", "correct": true },
+        { "text": "Dalton", "correct": false },
+        { "text": "Newton", "correct": false },
+        { "text": "Einstein", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è l'unità di misura della velocità nel Sistema Internazionale?",
+      "answers": [
+        { "text": "Metri al secondo", "correct": true },
+        { "text": "Kilometri al secondo", "correct": false },
+        { "text": "Chilometri orari", "correct": false },
+        { "text": "Metri al minuto", "correct": false }
+      ]
+    },
+    {
+      "question": "In che modo gli elettroni sono coinvolti nella trasmissione di informazioni nei computer?",
+      "answers": [
+        {
+          "text": "Attraverso la circolazione di corrente elettrica",
+          "correct": true
+        },
+        { "text": "Attraverso la rifrazione della luce", "correct": false },
+        { "text": "Attraverso la trasmissione di calore", "correct": false },
+        {
+          "text": "Attraverso la trasmissione di onde sonore",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quale scoperta ha permesso lo sviluppo della tecnologia dei transistori?",
+      "answers": [
+        { "text": "Il principio del effetto transistor", "correct": true },
+        { "text": "La legge di Ohm", "correct": false },
+        { "text": "La legge di Faraday", "correct": false },
+        { "text": "La legge di Coulomb", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è la teoria più accettata per spiegare l'origine dell'universo?",
+      "answers": [
+        { "text": "Teoria del Big Bang", "correct": true },
+        { "text": "Teoria del steady state", "correct": false },
+        { "text": "Teoria del moto perpetuo", "correct": false },
+        { "text": "Teoria delle stringhe", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale elemento chimico ha il numero atomico più alto conosciuto?",
+      "answers": [
+        { "text": "Oganesson", "correct": true },
+        { "text": "Platino", "correct": false },
+        { "text": "Urano", "correct": false },
+        { "text": "Oro", "correct": false }
+      ]
+    },
+    {
+      "question": "Come è classificato il sistema solare?",
+      "answers": [
+        { "text": "Sistema planetario", "correct": true },
+        { "text": "Sistema stellare", "correct": false },
+        { "text": "Sistema galattico", "correct": false },
+        { "text": "Sistema intergalattico", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale è la prima legge della termodinamica?",
+      "answers": [
+        {
+          "text": "l'energia totale di un sistema isolato deve rimanere costante",
+          "correct": true
+        },
+        {
+          "text": "l'energia totale di un sistema isolato deve aumentare",
+          "correct": false
+        },
+        {
+          "text": "l'entropia di un sistema isolato a temperatura assoluta zero è costante",
+          "correct": false
+        },
+        {
+          "text": "l'entropia di un sistema isolato a temperatura assoluta infinita è costante",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quale è la teoria più accettata per spiegare la formazione del sistema solare?",
+      "answers": [
+        { "text": "Teoria del nebulosa solare", "correct": true },
+        { "text": "Teoria della creazione divina", "correct": false },
+        { "text": "Teoria della collisione stellare", "correct": false },
+        { "text": "Teoria dell'evoluzione galattica", "correct": false }
+      ]
+    },
+    {
+      "question": "In che anno fu scoperto l'elettrone?",
+      "answers": [
+        { "text": "1897", "correct": true },
+        { "text": "1907", "correct": false },
+        { "text": "1917", "correct": false },
+        { "text": "1927", "correct": false }
+      ]
+    },
+    {
+      "question": "In che unità di misura è espresso il calore?",
+      "answers": [
+        { "text": "Joule (J)", "correct": true },
+        { "text": "Watt (W)", "correct": false },
+        { "text": "Volt (V)", "correct": false },
+        { "text": "Ampere (A)", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale gas rappresenta circa il 78% della massa dell'atmosfera terrestre?",
+      "answers": [
+        { "text": "Azoto", "correct": true },
+        { "text": "Anidride Carbonica", "correct": false },
+        { "text": "Elio", "correct": false },
+        { "text": "Ossigeno", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale pianeta del sistema solare è conosciuto come pianeta rosso?",
+      "answers": [
+        { "text": "Marte", "correct": true },
+        { "text": "Venere", "correct": false },
+        { "text": "Mercurio", "correct": false },
+        { "text": "Giove", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale elemento chimico è rappresentato dalla sigla 'Au' sulla tavola periodica?",
+      "answers": [
+        { "text": "Oro", "correct": true },
+        { "text": "Argento", "correct": false },
+        { "text": "Rame", "correct": false },
+        { "text": "Ferro", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale elemento chimico ha il simbolo Zn?",
+      "answers": [
+        { "text": "Zinco", "correct": true },
+        { "text": "Zolfo", "correct": false },
+        { "text": "Zirconio", "correct": false },
+        { "text": "Zeno", "correct": false }
+      ]
+    },
+    {
+      "question": "In che anno venne pubblicata la teoria della relatività generale di Albert Einstein?",
+      "answers": [
+        { "text": "1915", "correct": true },
+        { "text": "1905", "correct": false },
+        { "text": "1925", "correct": false },
+        { "text": "1935", "correct": false }
+      ]
+    },
+    {
+      "question": "Che tipo di radiazione è utilizzata per trattare il cancro?",
+      "answers": [
+        { "text": "Raggi X", "correct": false },
+        { "text": "Raggi gamma", "correct": true },
+        { "text": "Raggi beta", "correct": false },
+        { "text": "Raggi alfa", "correct": false }
+      ]
+    },
+    {
+      "question": "Il teorema di Pitagora stabilisce una relazione tra quale triangolo?",
+      "answers": [
+        { "text": "Triangolo rettangolo", "correct": true },
+        { "text": "Triangolo equilatero", "correct": false },
+        { "text": "Triangolo isoscele", "correct": false },
+        { "text": "Triangolo scaleno", "correct": false }
+      ]
+    },
+    {
+      "question": "In che unità di misura si esprime la massa di un corpo?",
+      "answers": [
+        { "text": "Kilogrammo", "correct": true },
+        { "text": "Litro", "correct": false },
+        { "text": "Metro", "correct": false },
+        { "text": "Secondo", "correct": false }
+      ]
+    }
+  ]
+}

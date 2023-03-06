@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "question": "Quale anime è stato trasmesso per la prima volta nel 1997 e ha introdotto il genere 'Magical Girl'?",
+      "answers": [
+        { "text": "Sailor Moon", "correct": true },
+        { "text": "Cardcaptor Sakura", "correct": false },
+        { "text": "Puella Magi Madoka Magica", "correct": false },
+        { "text": "Fate/stay night", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale manga è stato scritto e illustrato da Eiichiro Oda e ha ispirato un anime popolare omonimo?",
+      "answers": [
+        { "text": "One Piece", "correct": true },
+        { "text": "Naruto", "correct": false },
+        { "text": "Bleach", "correct": false },
+        { "text": "Attack on Titan", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale anime ha introdotto il genere 'Mecha'?",
+      "answers": [
+        { "text": "Mobile Suit Gundam", "correct": true },
+        { "text": "Neon Genesis Evangelion", "correct": false },
+        { "text": "Code Geass", "correct": false },
+        { "text": "Full Metal Panic!", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale anime ha introdotto il genere 'Shonen'?",
+      "answers": [
+        { "text": "Dragon Ball", "correct": true },
+        { "text": "One Piece", "correct": false },
+        { "text": "Naruto", "correct": false },
+        { "text": "Bleach", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è l'autore del manga 'Death Note'?",
+      "answers": [
+        { "text": "Tsugumi Ohba e Takeshi Obata", "correct": true },
+        { "text": "Eiichiro Oda e Tite Kubo", "correct": false },
+        { "text": "Masashi Kishimoto e Yoshihiro Togashi", "correct": false },
+        { "text": "Hiro Mashima e Akiko Higashimura", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è l'autore del manga 'FullMetal Alchemist'?",
+      "answers": [
+        { "text": "Hiromu Arakawa", "correct": true },
+        { "text": "Eiichiro Oda", "correct": false },
+        { "text": "Masashi Kishimoto", "correct": false },
+        { "text": "Naoko Takeuchi", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale anime ha introdotto il genere 'Isekai'?",
+      "answers": [
+        {
+          "text": "Re:Zero - Starting Life in Another World",
+          "correct": false
+        },
+        { "text": "That Time I Got Reincarnated as a Slime", "correct": false },
+        { "text": "The Rising of the Shield Hero", "correct": false },
+        { "text": "Sword Art Online", "correct": true }
+      ]
+    },
+    {
+      "question": "In quale anno è stato trasmesso per la prima volta l'anime 'Dragon Ball Z'?",
+      "answers": [
+        { "text": "1989", "correct": true },
+        { "text": "1986", "correct": false },
+        { "text": "1991", "correct": false },
+        { "text": "1984", "correct": false }
+      ]
+    },
+    {
+      "question": "Di che squadra fanno parte 'Naruto, Sakura, Sasuke e Kakashi'?",
+      "answers": [
+        { "text": "Sette", "correct": true },
+        { "text": "Sei", "correct": false },
+        { "text": "Otto", "correct": false },
+        { "text": "Nove", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale anno è stato pubblicato il primo volume del manga 'One Piece'?",
+      "answers": [
+        { "text": "1997", "correct": true },
+        { "text": "1999", "correct": false },
+        { "text": "1995", "correct": false },
+        { "text": "2001", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è il titolo originale dell'anime 'Sailor Moon'?",
+      "answers": [
+        { "text": "Bishoujo Senshi Sailor Moon", "correct": true },
+        { "text": "Mahou Shoujo Madoka Magica", "correct": false },
+        { "text": "FullMetal Alchemist", "correct": false },
+        { "text": "Code Geass", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è il nome del protagonista principale dell'anime 'Bleach'?",
+      "answers": [
+        { "text": "Ichigo Kurosaki", "correct": true },
+        { "text": "Naruto Uzumaki", "correct": false },
+        { "text": "Edward Elric", "correct": false },
+        { "text": "Goku", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale anime ha vinto il premio per il miglior film anime al Festival Internazionale del Film d'Animazione d'Annecy nel 2019?",
+      "answers": [
+        { "text": "Mirai", "correct": true },
+        { "text": "Your Name", "correct": false },
+        { "text": "A Silent Voice", "correct": false },
+        { "text": "Your Lie in April", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale anime ha vinto il premio per il miglior film al Japan Academy Prize nel 2018?",
+      "answers": [
+        {
+          "text": "L'Attacco dei Giganti - Il Film: Il Vento che Porta via il Campione",
+          "correct": true
+        },
+        { "text": "One Punch Man: Il Film", "correct": false },
+        {
+          "text": "Gintama 2: Okite wa Yaburu Tame ni koso Aru",
+          "correct": false
+        },
+        {
+          "text": "Love, Chunibyo & Other Delusions: Take on Me",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quale anime ha vinto il premio per il miglior film al 42° Japan Academy Prize nel 2019?",
+      "answers": [
+        { "text": "Vivy: Fluorite Eye's Song", "correct": true },
+        {
+          "text": "Demon Slayer: Kimetsu no Yaiba - Mugen Train",
+          "correct": false
+        },
+        { "text": "Promare", "correct": false },
+        { "text": "Dr. Stone: Stone Wars", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è l'autore del manga 'Attack on Titan'?",
+      "answers": [
+        { "text": "Hajime Isayama", "correct": true },
+        { "text": "Eiichiro Oda", "correct": false },
+        { "text": "Kouhei Horikoshi", "correct": false },
+        { "text": "Kōshi Tachibana", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale anno è stato pubblicato il primo capitolo del manga 'Attack on Titan'?",
+      "answers": [
+        { "text": "2009", "correct": true },
+        { "text": "2008", "correct": false },
+        { "text": "2010", "correct": false },
+        { "text": "2007", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è l'autore del manga 'One Punch Man'?",
+      "answers": [
+        { "text": "One e Yusuke Murata", "correct": true },
+        { "text": "Eiichiro Oda e Tatsuyuki Nagai", "correct": false },
+        { "text": "Kouhei Horikoshi e Kenichi Tachibana", "correct": false },
+        { "text": "Kōshi Tachibana e Yūki Kaji", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale anno è stato pubblicato il primo capitolo del manga 'One Punch Man'?",
+      "answers": [
+        { "text": "2009", "correct": true },
+        { "text": "2008", "correct": false },
+        { "text": "2010", "correct": false },
+        { "text": "2007", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale anime ha vinto il premio 'Anime of the Year' ai Crunchyroll Anime Awards del 2019?",
+      "answers": [
+        { "text": "Demon Slayer: Kimetsu no Yaiba", "correct": true },
+        { "text": "One Punch Man 2nd Season", "correct": false },
+        { "text": "The Promised Neverland", "correct": false },
+        { "text": "Dr. Stone", "correct": false }
+      ]
+    }
+  ]
+}

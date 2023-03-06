@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "Quale famoso franchise di giochi di guerra include il titolo 'Call of Duty'?",
+      "answers": [
+        { "text": "Activision", "correct": true },
+        { "text": "EA Sports", "correct": false },
+        { "text": "Rockstar Games", "correct": false },
+        { "text": "Ubisoft", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale personaggio di Mario Bros è conosciuto per essere il fratello di Mario?",
+      "answers": [
+        { "text": "Luigi", "correct": true },
+        { "text": "Wario", "correct": false },
+        { "text": "Peach", "correct": false },
+        { "text": "Yoshi", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale anno è stato rilasciato il primo episodio di The Legend of Zelda?",
+      "answers": [
+        { "text": "1986", "correct": true },
+        { "text": "1985", "correct": false },
+        { "text": "1987", "correct": false },
+        { "text": "1984", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale console di gioco di casa Nintendo è stata rilasciata nel 2006?",
+      "answers": [
+        { "text": "Wii", "correct": true },
+        { "text": "Nintendo 64", "correct": false },
+        { "text": "GameCube", "correct": false },
+        { "text": "Super Nintendo", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale personaggio di Street Fighter è conosciuto per essere il combattente di arti marziali cinese?",
+      "answers": [
+        { "text": "Chun-Li", "correct": true },
+        { "text": "Ryu", "correct": false },
+        { "text": "Ken", "correct": false },
+        { "text": "Guile", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale famoso franchise di giochi di corse include il titolo 'Need for Speed'?",
+      "answers": [
+        { "text": "Electronic Arts", "correct": true },
+        { "text": "Ubisoft", "correct": false },
+        { "text": "Rockstar Games", "correct": false },
+        { "text": "Activision", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale tra questi è il gioco più giocato di sempre?",
+      "answers": [
+        { "text": "Tetris", "correct": true },
+        { "text": "Minecraft", "correct": false },
+        { "text": "Call of Duty: MW2", "correct": false },
+        { "text": "Gta V", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale personaggio di Final Fantasy è conosciuto per essere il protagonista della serie?",
+      "answers": [
+        { "text": "Cloud Strife", "correct": true },
+        { "text": "Tidus", "correct": false },
+        { "text": "Squall", "correct": false },
+        { "text": "Zidane", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale tra i seguenti non è un personaggio di Super Mario Bros.?",
+      "answers": [
+        { "text": "Wario", "correct": true },
+        { "text": "Luigi", "correct": false },
+        { "text": "Toad", "correct": false },
+        { "text": "Bowser", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è la data di rilascio di The Legend of Zelda: Ocarina of Time per Nintendo 64?",
+      "answers": [
+        { "text": "21 Novembre 1998", "correct": true },
+        { "text": "15 Dicembre 1997", "correct": false },
+        { "text": "18 Settembre 1999", "correct": false },
+        { "text": "2 Dicembre 1996", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è il protagonista del gioco Metal Gear Solid?",
+      "answers": [
+        { "text": "Snake", "correct": true },
+        { "text": "Raiden", "correct": false },
+        { "text": "Big Boss", "correct": false },
+        { "text": "Gray Fox", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale anno è stato rilasciato il primo episodio di Resident Evil?",
+      "answers": [
+        { "text": "1996", "correct": true },
+        { "text": "1998", "correct": false },
+        { "text": "1994", "correct": false },
+        { "text": "1997", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale città si svolge la trama di Grand Theft Auto: San Andreas?",
+      "answers": [
+        { "text": "Los Santos", "correct": true },
+        { "text": "Liberty City", "correct": false },
+        { "text": "Vice City", "correct": false },
+        { "text": "Star City", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è il creatore di Minecraft?",
+      "answers": [
+        { "text": "Markus Persson", "correct": true },
+        { "text": "Stephen McManus", "correct": false },
+        { "text": "John Carmack", "correct": false },
+        { "text": "Shigeru Miyamoto", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale delle seguenti non è una serie di Call of Duty?",
+      "answers": [
+        { "text": "Modern Warfare", "correct": false },
+        { "text": "Black Ops", "correct": false },
+        { "text": "Infinite Warfare", "correct": false },
+        { "text": "Galactic Warfare", "correct": true }
+      ]
+    },
+    {
+      "question": "In quale anno è stato rilasciato il primo episodio di Half-Life?",
+      "answers": [
+        { "text": "1998", "correct": true },
+        { "text": "1997", "correct": false },
+        { "text": "1999", "correct": false },
+        { "text": "1996", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale personaggio di Sonic The Hedgehog è conosciuto come il cattivo principale?",
+      "answers": [
+        { "text": "Dr. Eggman", "correct": true },
+        { "text": "Sonic", "correct": false },
+        { "text": "Tales", "correct": false },
+        { "text": "Shadow", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale anno è stato pubblicato il primo episodio della serie di videogiochi Grand Theft Auto?",
+      "answers": [
+        { "text": "1997", "correct": true },
+        { "text": "1999", "correct": false },
+        { "text": "2002", "correct": false },
+        { "text": "2005", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale serie di giochi l'eroina principale si chiama Lara Croft?",
+      "answers": [
+        { "text": "Tomb Raider", "correct": true },
+        { "text": "Uncharted", "correct": false },
+        { "text": "Resident Evil", "correct": false },
+        { "text": "Final Fantasy", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale delle seguenti serie di giochi non appartiene alla categoria degli sparatutto in prima persona?",
+      "answers": [
+        { "text": "The Legend of Zelda", "correct": true },
+        { "text": "Call of Duty", "correct": false },
+        { "text": "Doom", "correct": false },
+        { "text": "Half-Life", "correct": false }
+      ]
+    }
+  ]
+}

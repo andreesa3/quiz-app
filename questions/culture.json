@@ -1,0 +1,190 @@
+{
+  "questions": [
+    {
+      "question": "Virgin Trains, Virgin Atlantic e Virgin Racing, sono tutte società di proprietà di quale famoso imprenditore?",
+      "answers": [
+        { "text": "Richard Branson", "correct": true },
+        { "text": "Alan Sugar", "correct": false },
+        { "text": "Donald Trump", "correct": false },
+        { "text": "Bill Gates", "correct": false }
+      ]
+    },
+    {
+      "question": "Con quale azienda Valve ha collaborato alla creazione del Vive?",
+      "answers": [
+        { "text": "HTC", "correct": true },
+        { "text": "Oculus", "correct": false },
+        { "text": "Google", "correct": false },
+        { "text": "Razer", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale fiume scorre attraverso la città scozzese di Glasgow?",
+      "answers": [
+        { "text": "Clyde", "correct": true },
+        { "text": "Tay", "correct": false },
+        { "text": "Dee", "correct": false },
+        { "text": "Tweed", "correct": false }
+      ]
+    },
+    {
+      "question": "Whiskey scozzese e Drambuie compongono quale cocktail?",
+      "answers": [
+        { "text": "Rusty Nail", "correct": true },
+        { "text": "Screwdriver", "correct": false },
+        { "text": "Sex on the Beach", "correct": false },
+        { "text": "Manhattan", "correct": false }
+      ]
+    },
+    {
+      "question": "Cos'è un 'dakimakura'?",
+      "answers": [
+        { "text": "Un cuscino per il corpo", "correct": true },
+        {
+          "text": "Un pasto cinese, composto essenzialmente di pesce",
+          "correct": false
+        },
+        { "text": "Una postura yoga", "correct": false },
+        {
+          "text": "Una parola usata per descrivere due persone che si amano davvero",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "Quale di queste aziende NON produce automobili?",
+      "answers": [
+        { "text": "Ducati", "correct": true },
+        { "text": "Nissan", "correct": false },
+        { "text": "GMC", "correct": false },
+        { "text": "Fiat", "correct": false }
+      ]
+    },
+    {
+      "question": "Chi è stato il primo presidente degli Stati Uniti?",
+      "answers": [
+        { "text": "George Washington", "correct": true },
+        { "text": "Thomas Jefferson", "correct": false },
+        { "text": "Abramo Lincoln", "correct": false },
+        { "text": "Barack Obama", "correct": false }
+      ]
+    },
+    {
+      "question": "In che anno è stata la scoperta dell'America?",
+      "answers": [
+        { "text": "1492", "correct": true },
+        { "text": "1493", "correct": false },
+        { "text": "1490", "correct": false },
+        { "text": "1496", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale delle seguenti lingue NON usa il genere come parte della sua grammatica?",
+      "answers": [
+        { "text": "Turco", "correct": true },
+        { "text": "Tedesco", "correct": false },
+        { "text": "Danese", "correct": false },
+        { "text": "Polacco", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale delle seguenti bevande analcoliche gassate è stata introdotta per prima?",
+      "answers": [
+        { "text": "Dr. Pepper", "correct": true },
+        { "text": "Coca-Cola", "correct": false },
+        { "text": "Sprite", "correct": false },
+        { "text": "Mountain Dew", "correct": false }
+      ]
+    },
+    {
+      "question": "Che origine ha la pianta che produce gli ananas?",
+      "answers": [
+        { "text": "Sud America", "correct": true },
+        { "text": "Hawaii", "correct": false },
+        { "text": "Europa", "correct": false },
+        { "text": "Asia", "correct": false }
+      ]
+    },
+    {
+      "question": "In che anno è stato ucciso John F. Kennedy?",
+      "answers": [
+        { "text": "1963", "correct": true },
+        { "text": "1964", "correct": false },
+        { "text": "1962", "correct": false },
+        { "text": "1966", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale tra questi stati si è soliti guidare sulla sinistra?",
+      "answers": [
+        { "text": "Giappone", "correct": true },
+        { "text": "Germania", "correct": false },
+        { "text": "Russia", "correct": false },
+        { "text": "Cina", "correct": false }
+      ]
+    },
+    {
+      "question": "Quali tra questi vengono utilizzate nella produzione del marzapane?",
+      "answers": [
+        { "text": "Mandorle", "correct": true },
+        { "text": "Arachidi", "correct": false },
+        { "text": "Noci", "correct": false },
+        { "text": "Pistacchi", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale è stato il primo paese ad approvare il suffragio femminile?",
+      "answers": [
+        { "text": "Nuova Zelanda", "correct": true },
+        { "text": "Germania", "correct": false },
+        { "text": "Italia", "correct": false },
+        { "text": "Spagna", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è il titolo completo del Primo Ministro del Regno Unito?",
+      "answers": [
+        { "text": "Primo Lord del Tesoro", "correct": true },
+        { "text": "Duca di Cambridge", "correct": false },
+        { "text": "La leale opposizione di Sua Maestà", "correct": false },
+        { "text": "Manager della tenuta della corona", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale delle seguenti non è una Ivy League University?",
+      "answers": [
+        { "text": "Stanford", "correct": true },
+        { "text": "Università di Pennsylvania", "correct": false },
+        { "text": "Harvest", "correct": false },
+        { "text": "Princeton", "correct": false }
+      ]
+    },
+    {
+      "question": "Frank Lloyd Wright fu l'architetto di quale famoso edificio?",
+      "answers": [
+        { "text": "Il Guggenheim", "correct": true },
+        { "text": "Villa Savoia", "correct": false },
+        { "text": "Sydney Opera House", "correct": false },
+        { "text": "L'ago spaziale", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è la parola francese che sta per 'pesce'?",
+      "answers": [
+        { "text": "Poisson", "correct": true },
+        { "text": "Fiche", "correct": false },
+        { "text": "Escargot", "correct": false },
+        { "text": "Mer", "correct": false }
+      ]
+    },
+    {
+      "question": "In aerodinamica, quale forza spinge un oggetto verso l'alto?",
+      "answers": [
+        { "text": "Sollevamento", "correct": true },
+        { "text": "Trascinamento", "correct": false },
+        { "text": "Spinta", "correct": false },
+        { "text": "Peso", "correct": false }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "Quale oceano è il più grande del mondo?",
+      "answers": [
+        { "text": "Oceano Pacifico", "correct": true },
+        { "text": "Oceano Atlantico", "correct": false },
+        { "text": "Oceano Indiano", "correct": false },
+        { "text": "Oceano Artico", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale è il fiume più lungo del mondo?",
+      "answers": [
+        { "text": "Nilo", "correct": true },
+        { "text": "Amazzoni", "correct": false },
+        { "text": "Yangtze", "correct": false },
+        { "text": "Mississippi", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale continente si trova il deserto del Sahara?",
+      "answers": [
+        { "text": "Africa", "correct": true },
+        { "text": "America del Nord", "correct": false },
+        { "text": "Asia", "correct": false },
+        { "text": "Australia", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale paese è la più grande potenza economica d'Europa?",
+      "answers": [
+        { "text": "Germania", "correct": true },
+        { "text": "Regno Unito", "correct": false },
+        { "text": "Francia", "correct": false },
+        { "text": "Italia", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale città è considerata la città più grande del mondo?",
+      "answers": [
+        { "text": "Tokyo", "correct": true },
+        { "text": "New York", "correct": false },
+        { "text": "Londra", "correct": false },
+        { "text": "Shanghai", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale paese si trova il Monte Everest?",
+      "answers": [
+        { "text": "Nepal", "correct": true },
+        { "text": "Bhutan", "correct": false },
+        { "text": "India", "correct": false },
+        { "text": "Tibet", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale è il più grande deserto del mondo?",
+      "answers": [
+        { "text": "Deserto del Sahara", "correct": false },
+        { "text": "Deserto del Gobi", "correct": false },
+        { "text": "Deserto del Kalahari", "correct": false },
+        { "text": "Deserto del Mojave", "correct": true }
+      ]
+    },
+    {
+      "question": "Quale paese non è un membro dell'Unione Europea?",
+      "answers": [
+        { "text": "Norvegia", "correct": true },
+        { "text": "Germania", "correct": false },
+        { "text": "Svezia", "correct": false },
+        { "text": "Danimarca", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è il paese più popoloso del mondo?",
+      "answers": [
+        { "text": "Cina", "correct": true },
+        { "text": "India", "correct": false },
+        { "text": "Indonesia", "correct": false },
+        { "text": "Stati Uniti d'America", "correct": false }
+      ]
+    },
+    {
+      "question": "Qual è il più grande lago del mondo?",
+      "answers": [
+        { "text": "Caspio", "correct": true },
+        { "text": "Baikal", "correct": false },
+        { "text": "Tanganika", "correct": false },
+        { "text": "Superiore", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale paese si trova il Monte Kilimangiaro?",
+      "answers": [
+        { "text": "Tanzania", "correct": true },
+        { "text": "Kenya", "correct": false },
+        { "text": "Uganda", "correct": false },
+        { "text": "Rwanda", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale è la catena montuosa più lunga del mondo?",
+      "answers": [
+        { "text": "Cordigliera delle Ande", "correct": true },
+        { "text": "Himalaya", "correct": false },
+        { "text": "Alpi", "correct": false },
+        { "text": "Appalachi", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale paese si trova la diga delle Tre Gole?",
+      "answers": [
+        { "text": "Cina", "correct": true },
+        { "text": "India", "correct": false },
+        { "text": "Pakistan", "correct": false },
+        { "text": "Bhutan", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale paese ospita la Torre Eiffel?",
+      "answers": [
+        { "text": "Francia", "correct": true },
+        { "text": "Italia", "correct": false },
+        { "text": "Spagna", "correct": false },
+        { "text": "Portogallo", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale paese ospita il fiume Amazonas?",
+      "answers": [
+        { "text": "Brasile", "correct": true },
+        { "text": "Colombia", "correct": false },
+        { "text": "Perù", "correct": false },
+        { "text": "Ecuador", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale è il paese più grande del mondo in termini di superficie?",
+      "answers": [
+        { "text": "Russia", "correct": true },
+        { "text": "Canada", "correct": false },
+        { "text": "Spagna", "correct": false },
+        { "text": "Australia", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale è il fiume più lungo del mondo?",
+      "answers": [
+        { "text": "Nilo", "correct": true },
+        { "text": "Amazzoni", "correct": false },
+        { "text": "Yangtze", "correct": false },
+        { "text": "Ob", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale paese ospita la Grande Muraglia?",
+      "answers": [
+        { "text": "Cina", "correct": true },
+        { "text": "Mongolia", "correct": false },
+        { "text": "Corea del Sud", "correct": false },
+        { "text": "Corea del Nord", "correct": false }
+      ]
+    },
+    {
+      "question": "In quale paese si trova la città di Amsterdam?",
+      "answers": [
+        { "text": "Paesi Bassi", "correct": true },
+        { "text": "Belgio", "correct": false },
+        { "text": "Germania", "correct": false },
+        { "text": "Francia", "correct": false }
+      ]
+    },
+    {
+      "question": "Quale paese non confina con il Mar Mediterraneo?",
+      "answers": [
+        { "text": "Germania", "correct": true },
+        { "text": "Italia", "correct": false },
+        { "text": "Francia", "correct": false },
+        { "text": "Spagna", "correct": false }
+      ]
+    }
+  ]
+}
